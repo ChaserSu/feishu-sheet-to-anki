@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.apkg
+xlsx_media_*/
+anki_media_*/
+.DS_Store
+examples/example_brands.xlsx
